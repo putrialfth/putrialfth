@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meilina Ananda Putri</h1>
-<h3 align="center">I’m a junior web developer who works with frameworks. I live in Solo, Central Java, and am currently working and looking for opportunities to grow in the Central Java area. I enjoy learning new things; I don’t have any special talents, I’m just constantly curious and keep trying.</h3>
+<h3 align="center">I’m a junior web developer who works with frameworks. I live in Solo, Central Java, and am currently working and looking for opportunities to grow up. I enjoy learning new things; I don’t have any special talents, I’m just constantly curious and keep trying.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=putrialfth&label=Profile%20views&color=0e75b6&style=flat" alt="putrialfth" /> </p>
 
